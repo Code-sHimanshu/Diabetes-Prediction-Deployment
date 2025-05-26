@@ -18,7 +18,7 @@ body{
 .container{
     padding: 30px;
 	position: relative;
-	background: linear-gradient(45deg, #443B96, #F60B68, #F4483A);
+	background: linear-gradient(45deg, #6be7ba, #c37a97, #8106e6);
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
@@ -103,7 +103,7 @@ body{
 	flex-shrink: 0;
 	position: relative;
 	padding: 20px;
-	background: linear-gradient(45deg, #443B96, #F60B68, #F4483A);
+	background: linear-gradient(45deg, #443B96, #e398b6, #76388f);
 	background-size: 500% 500%;
 	animation: change-gradient 10s ease-in-out infinite;
 }
@@ -125,7 +125,7 @@ body{
 }
 
 .safe{
-    color: green;
+    color: rgb(3, 208, 3);
 }
 
 .gif{
